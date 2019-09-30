@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://anran1dea.github.io/</id>
     <title>AnRan </title>
-    <updated>2019-09-30T05:07:18.856Z</updated>
+    <updated>2019-09-30T05:09:17.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://anran1dea.github.io/"/>
     <link rel="self" href="https://anran1dea.github.io//atom.xml"/>
@@ -19,8 +19,6 @@
         <summary type="html"><![CDATA[<p>test0</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>test0</p>
-<!-- more -->
-<p>test1</p>
 <!-- more -->
 <p>同源策略是浏览器的一个安全功能，不同源的客户端脚本在没有明确授权的情况下，不能读写对方资源。</p>
 <p>以下请求必须同源</p>
