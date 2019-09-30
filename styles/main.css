@@ -3,8 +3,8 @@
   --c-base-blacklight: #4E616C;
   --c-base-purple: #00BB00;
   --c-base-purplelight: #00BB00;
-  --c-base-bluelight: hwb(199, 1%, 4%);
-  --c-base-blue: hwb(209, 0%, 35%);
+  --c-base-bluelight: hwb(0, 80%, 20%);
+  --c-base-blue: hwb(123, 40%, 27%);
   --c-base-green: hwb(123, 40%, 27%);
   --c-base-graylight: hwb(0, 80%, 20%);
   --c-base-gray: hwb(0, 60%, 40%);
